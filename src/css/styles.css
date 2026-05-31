@@ -76,7 +76,7 @@ main {
   font-size: 14px;
   color: #333;
 
-  text-align: left; /* <- важливо */
+  text-align: left;
 }
 
 .feedback-form input,
@@ -89,7 +89,7 @@ main {
 
   font-size: 14px;
 
-  text-align: left; /* <- фікс “центрування” якщо десь було */
+  text-align: left;
 }
 
 .feedback-form textarea {
