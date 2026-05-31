@@ -67,7 +67,7 @@ const images = [
   },
 ];
 
-const galleryEl = document.querySelector('.js-gallery');
+const galleryEl = document.querySelector('.gallery');
 
 function ImageTemplate({ preview, original, description }) {
   return `<li class="gallery-item">
